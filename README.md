@@ -4,7 +4,8 @@
 使用Docker搭建Hadoop HA集群
 
 Docker VS  VM
-![DvsV](doc/img/dvsvm.png)
+![DvsV](doc/img/dvsvm.png)  
+
 选择Docker还能方便将来将容器真正的部署到集群上。
 
 ### Hadoop HA架构
@@ -67,10 +68,10 @@ ENTRYPOINT /usr/sbin/sshd -D
 
  - `core-site.xml`
 ```
-	<property>
-            <name>fs.defaultFS</name>
-            <value>hdfs://ns1</value>
-        </property>
+     <property>
+	    <name>fs.defaultFS</name>
+	    <value>hdfs://ns1</value>
+     </property>
     <!-- 指定hadoop运行时产生文件的存储目录 -->
      <property>
             <name>hadoop.tmp.dir</name>
