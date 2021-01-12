@@ -268,13 +268,13 @@ hadoop7
 1. Task1
    - 运行
    ![task1_run](doc/img/task1_run.png)
-   - 结果
+   - 结果  
    ![task1_out](doc/img/task1_out.png)
 
 2. Task2
    - 运行
    ![task2_run](doc/img/task2_run.png)
-   - 结果
+   - 结果  
    ![task2_out](doc/img/task2_out.png)
 
 
