@@ -4,6 +4,7 @@
 使用Docker搭建Hadoop HA集群
 
 Docker VS  VM
+
 ![DvsV](doc/img/dvsvm.png)  
 
 选择Docker还能方便将来将容器真正的部署到集群上。
