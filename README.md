@@ -22,7 +22,7 @@ Docker VS  VM
 | 172.18.0.13 | hadoop8 | zookeeper |zookeeper|
 | 172.18.0.12 | hadoop9 | zookeeper |zookeeper|
 | 172.18.0.14 | hadoop10 | zookeeper |zookeeper|
-| 172.18.0.11 | hadoop11 | hadoop jdk|JournalNode|
+| 172.18.0.9 | hadoop11 | hadoop jdk|JournalNode|
 | 172.18.0.10 | hadoop12 | hadoop jdk |JournalNode|
 | 172.18.0.11 | hadoop13 | hadoop jdk |JournalNode|
 
